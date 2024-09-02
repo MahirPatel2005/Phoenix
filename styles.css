@@ -70,7 +70,7 @@ a {
   font-weight: 700;
   color: var(--white);
   background-image: var(--gradient-2);
-  border-radius: 100%;
+  border-radius: 50%;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -105,7 +105,7 @@ nav {
 }
 
 .nav__logo {
-  padding: 9px 12px;
+  padding: 0px 0px;
   font-size: 1.2rem;
 }
 
@@ -188,7 +188,7 @@ nav {
 
 .header__image::after {
   position: absolute;
-  content: "MICHAEL";
+  content: "PHOENIX";
   letter-spacing: 1.5rem;
   opacity: 0.5;
   right: 1rem;
